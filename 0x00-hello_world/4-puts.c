@@ -4,7 +4,7 @@
  *main-runs all the code
  *
  *description: Runs puts and print statement
- *return; Return (0) to exit function
+ *Return (0) to exit function
  */
 int main(void)
 {
