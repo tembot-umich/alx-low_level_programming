@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - Run main function
+*main - Run main function
 *
 *Description:Run printf multiple times to print the size of different types
 *Return: Return 0 to exit function
