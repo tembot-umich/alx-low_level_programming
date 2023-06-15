@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  *main-runs all the code
  *
  *description: Runs puts and print statement
