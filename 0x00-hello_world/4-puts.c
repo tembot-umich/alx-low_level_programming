@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *main-runs all the code
+ *main - runs all the code
  *
  *description: Runs puts and print statement
- *Return (0) to exit function
+ *Return:Return (0) to exit function
  */
 int main(void)
 {
