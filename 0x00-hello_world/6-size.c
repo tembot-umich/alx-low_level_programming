@@ -1,23 +1,17 @@
 #include <stdio.h>
 
 /**
-*main - Run main function
+*main -entry point
 *
-*Description:Run printf multiple times to print the size of different types
-*Return: Return 0 to exit function
+*Return: always 0 (success)
 */
 int main(void)
 {
-int i;
-char c;
-long int l;
-long long int 11;
-float f;
-printf("Size of char: %lu byte(s)\n", (unsigned long)sizeof(c));
-printf("Size of an int: %lu byte(s)\n",(unsigned long)sizeof(i));
-printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(l));
-printf("Size of a long long int: %lu byte(s)\n",
-       (unsigned long)sizeof(11));
-printf("size of a float: %lu bytes()\n", (unsigned long)sizeof(f));
+
+printf("Size of char: %lu byte(s)\n", sizeof(char));
+printf("Size of an int: %lu byte(s)\n", sizeof(int));
+printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
+printf("Size of a long long int: %lu byte(s)\n", sizeof(long long int)
+printf("size of a float: %lu bytes()\n", sizeof(float));
 return (0)
 }
