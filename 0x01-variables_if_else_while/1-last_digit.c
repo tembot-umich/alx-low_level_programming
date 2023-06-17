@@ -8,9 +8,11 @@
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int n;
+	int Last_digit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
