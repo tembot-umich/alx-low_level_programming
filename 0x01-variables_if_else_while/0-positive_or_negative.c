@@ -4,8 +4,8 @@
 
 
 /**
- * main - prints a random number and states whether its positive or negat
- ive
+ * main - prints a random number and states whether its positive or 
+ *        negative
  * Return: Always 0.
  */
 int main(void)
@@ -14,6 +14,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+
 	if (n > 0)
 		printf(%d is positive\n", n);
 	else if (n < 0)
