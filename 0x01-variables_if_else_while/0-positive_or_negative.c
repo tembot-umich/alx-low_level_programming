@@ -4,7 +4,7 @@
 
 /**
  * main - prints a random number and states whether its positive or 
- *        negative or zero
+ *        negative or zero.
  *
  * Return: Always 0.
 */
