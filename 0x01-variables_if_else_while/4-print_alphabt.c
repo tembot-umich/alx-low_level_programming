@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
-		if (i != 'e' && i i != 'q')
+		if (i != 'e' && i != 'q')
 		{
 			putchar (i);
 		}
