@@ -13,7 +13,7 @@ int main(void)
 	for (i = 'a'; i <= 'z'; i++)
 		if (i != 'e' && i i != 'q')
 		{
-			putcha (i);
+			putchar (i);
 		}
 	putchar('\n');
 	return (0)
