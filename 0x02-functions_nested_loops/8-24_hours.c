@@ -1,35 +1,34 @@
+#include <stdio.h>
 #include "main.h"
-
 /**
- * jack_bauer -prints every minute of the day of him
+ * jack_bauer - prints every minute of the day
  *
- * Return: ...
+ * Return:void
  */
 void jack_bauer(void)
 {
-	int m , n, b, v;
-
-	for (m = 0; m <= 2; m++)
+	int a,z,x,c;
+	for(a=0;a <=2;a++)
 	{
-		for (n = 0; n <= 9; n++)
+		for (z=0;z <=9;z++)
 		{
-			if ((m <= 1 && n <=9 || (m <= 2 && n <=3))
+			if ((a <=1 && z <+9) || (a <= 2 && z <= 3))
 			{
-				for (b = 0; b <= 5; b++)
+				for (x = 0; x <= 5; x++)
 				{
-					for (v = 0; v <= 9; d++)
+					for (c = 0; c <=9; c++)
 					{
-				        	_putchar(m + '0';
-						_putchar(n + '0';
-						_putchar(58);
-						_putchar(b + '0');
-						_putchar(v + '0');
-						_putchar('\n');
-					}
-				}
-			}
-		}
-	}
-}
+						  if ((a <= 1 && z <= 9) || (a <= 2 && z <= 3))
+                        {
+                                for (x = 0; x <= 5; x++)
+                                {
+                                        for (c = 0; c <= 9; c++)
+					{
+                                                _putchar(a + '0');
+                                                _putchar(z + '0');
+                                                _putchar(58);
+                                                _putchar(x + '0');
+                                                _putchar(c + '0');
+                                                _putchar('\n');
 
 
