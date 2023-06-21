@@ -9,16 +9,16 @@ int main(void)
 {
 	int g, h;
 
-	for (g = '0'; g <= '9'; c++)
+	for (g = '0'; g <= '9'; g++)
 	{
 		for (h = '0'; h <= '9'; h++)
 		{
 			if (g < h)
 			{
-				putchar(c);
-				putchar(i);
+				putchar(g);
+				putchar(h);
 
-				if (g != '8' || (c == '8' && i != '9'))
+				if (g != '8' || (g == '8' && h != '9'))
 				{
 					putchar(',');
 					putchar(' ');
