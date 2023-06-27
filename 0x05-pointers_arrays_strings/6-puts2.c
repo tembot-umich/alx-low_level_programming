@@ -2,7 +2,7 @@
 /**
  *puts2 - prints every character of a string, starting with the first character.
  *@str: input
-Return: print
+Return:print
 */
 void puts2(char *str)
 {
