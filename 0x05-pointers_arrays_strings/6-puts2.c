@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *puts2 - prints every character of a string, starting with the first character.
+ *puts2 - function should print only one character out of two
  *@str: input
 Return:print
 */
