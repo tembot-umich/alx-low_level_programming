@@ -6,11 +6,11 @@
  */
 char *leet(char *n)
 {
-	int o,p;
+	int o, p;
 	char s1[] = "aAeEoOtTlL";
 	char s2[] = "4433007711";
 
-	for (o=0; n[o] != '\0'; o++)
+	for (o = 0; n[o] != '\0'; o++)
 	{
 		for (p = 0; p < 10; p++)
 		{
