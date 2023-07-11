@@ -6,7 +6,7 @@
  * @av: double pointer array
  * Return: 0
  */
-char *argstotstr(int ac, char **av)
+char *argstostr(int ac, char **av)
 {
 	int j, k, l = 0, m = 0;
 	char *str;
