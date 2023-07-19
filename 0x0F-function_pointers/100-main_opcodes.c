@@ -26,7 +26,6 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(2);
 	}
-	
 	arr = (char *)main;
 
 	for (m = 0; m < bytes; m++)
@@ -39,5 +38,4 @@ int main(int argc, char *argv[])
 		printf("%02hhx", arr[m]);
 	}
 	return (0);
-}
-	
+}	
