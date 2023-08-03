@@ -9,7 +9,7 @@ void print_binary(unsigned long int n)
 	int k, num = 0;
 	unsigned long int future;
 
-	for (k = 33; k >= 0; k--)
+	for (k = 63; k >= 0; k--)
 	{
 		future = n >> k;
 
