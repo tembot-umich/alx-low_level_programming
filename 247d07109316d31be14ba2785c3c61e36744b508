@@ -1,0 +1,1704 @@
+[33mcommit 247d07109316d31be14ba2785c3c61e36744b508[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1f7b520 a195812
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Sep 28 12:11:27 2023 +0300
+
+    Merge branch 'master' of https://github.com/tembot-umich/alx-low_level_programming
+
+[33mcommit 1f7b5203df3d48cae84d2aab91393213a472b381[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Sep 28 12:09:36 2023 +0300
+
+    git
+
+[33mcommit a195812c10acb152983ed078022dd325d0dec8a3[m
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Wed Sep 27 15:04:33 2023 +0300
+
+    Delete 0x14-bit_manipulation directory
+
+[33mcommit 942030b18858911609914f7cec20a11043dbaf80[m
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Fri Sep 8 17:32:03 2023 +0300
+
+    Delete 0x15-file_io directory
+
+[33mcommit d40f35a7e07b04cdcc77f88f611ca763d2c4a753[m
+Merge: 18e4154 afb206e
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Fri Sep 8 17:10:26 2023 +0300
+
+    Merge pull request #4 from tembot-umich/main
+    
+    Master
+
+[33mcommit 18e4154cdbd6338fd58365e0c3eca6906153d80b[m
+Author: root <you@example.com>
+Date:   Fri Sep 8 06:54:18 2023 -0700
+
+    1-create_file.c
+
+[33mcommit dd58cb2a8f91cc3cc1a81a645d1156c8e8d32bcc[m
+Author: root <you@example.com>
+Date:   Fri Sep 8 06:31:54 2023 -0700
+
+    0-read_textfile.c
+
+[33mcommit afb206ef09432d1fa4cd986c46ed8e831473a395[m
+Merge: 2f43d74 0142630
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Fri Sep 8 16:23:27 2023 +0300
+
+    Merge pull request #2 from tembot-umich/master
+    
+    0-read_textfile.c
+
+[33mcommit 0142630a4c0e418a5a6f0cf337b8f7fb2ef062f5[m
+Author: root <you@example.com>
+Date:   Fri Sep 8 06:21:26 2023 -0700
+
+    0-read_textfile.c
+
+[33mcommit 2f43d74669ff00d28b3a90b27ffb3944e742aa23[m
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Thu Sep 7 23:34:47 2023 +0300
+
+    Delete 0x15-file_io directory
+
+[33mcommit e6bc7fa85c44a2003c3c6b084319e87a057c0f72[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Sep 7 23:24:30 2023 +0300
+
+    0-read_textfile.c
+
+[33mcommit b6fb651482b10e2dbc052a5e8f6ffc94d747dc49[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Sep 7 23:03:05 2023 +0300
+
+    main.h
+
+[33mcommit 16ac99423fce3c9572e5d97b4ced01a6397c182a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 23:12:09 2023 +0300
+
+    101-password
+
+[33mcommit e2d8b91225149bbe24be364d53f523d045cd94db[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 22:46:02 2023 +0300
+
+    101-password
+
+[33mcommit bd0ea6eff167147cd245610a1becf09442415428[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 22:40:06 2023 +0300
+
+    100-get_endianness.c
+
+[33mcommit fb468bc4433b21cbe65dc8d787a216a1514cd9c0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 22:30:12 2023 +0300
+
+    5-flip_bits.c
+
+[33mcommit 995bebf743fc0b59e53bc22752d279c72c681448[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 22:22:42 2023 +0300
+
+    4-clear_bit.c
+
+[33mcommit 4c2ec23c4be4b2efeb0202f4ad60a4f053a92115[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 22:13:04 2023 +0300
+
+    3-set_bit.c
+
+[33mcommit 125a89a4b4a8afcc43b58b9084115a2978b1759f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 21:31:46 2023 +0300
+
+    2-get_bit.c
+
+[33mcommit cdc5de7255c08ce8eb01e16637d2500e0d2b913d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 21:23:08 2023 +0300
+
+    1-print_binary.c
+
+[33mcommit 3f331777736fc052a0b7b02408985c2e07d22748[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 20:59:16 2023 +0300
+
+    0-binary_to_uint.c
+
+[33mcommit 25cdaea1aaa625dfc8aa9ce73f6643885fb520b5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 20:42:56 2023 +0300
+
+    main.h
+
+[33mcommit 472becb698576ddde462bf44f0b067be33e15944[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 14:41:34 2023 +0300
+
+    deleted
+
+[33mcommit 53c23134c5011b0e86cf18ae2927ce231cfa18da[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Sep 1 13:43:48 2023 +0300
+
+    good
+
+[33mcommit 3074c98c7952818d5a54ca09ee05233768da942c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 31 23:29:24 2023 +0300
+
+     0x14. C - Bit manipulation
+
+[33mcommit faf96ea39778ce59cfe0b55c7fab6d4e61cbc4e7[m
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Wed Aug 30 16:20:53 2023 +0300
+
+    Delete 0x15-file_io directory
+
+[33mcommit 4dfc681d127ffe5870ff41ac33226931308f0f7e[m
+Author: Humphrey Agesa <133217965+tembot-umich@users.noreply.github.com>
+Date:   Wed Aug 30 16:19:47 2023 +0300
+
+    Delete 0x14-bit_manipulation directory
+
+[33mcommit 56283574bfabb4ac9ca557ea89c1d24fb5d942ec[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 14:22:10 2023 -0700
+
+    100-elf_header.c
+
+[33mcommit 82c00ae02ba658d610b5b2cb6186636e492e3c51[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 13:58:45 2023 -0700
+
+    3-cp.c
+
+[33mcommit cc03bc8777ed7cedbd950e67b048e56ba0904c65[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 13:52:27 2023 -0700
+
+    3-cp.c
+
+[33mcommit 90a3ed8da8ebaf9655868c297dd5191491318f00[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 13:18:55 2023 -0700
+
+    2-append_text_to_file.c
+
+[33mcommit 01e81ed34e01039557abced3465d311d73d45699[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 12:49:50 2023 -0700
+
+    1-create_file.c
+
+[33mcommit d4bbd9b4bb9a5df5c2b9a2ed2576e924f2340ef9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Aug 7 12:31:21 2023 -0700
+
+    0-read_textfile.c
+
+[33mcommit b06b95aa45074c6b4a22c10c0fe3fe9ca0263fab[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 14:09:05 2023 -0700
+
+     100-get_endianness.c
+
+[33mcommit 2f29cf10e4edc4e5cfdb63ab18b5fb7479b966b8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 14:04:36 2023 -0700
+
+    100-get_endianness.c
+
+[33mcommit fd1759f2914f8b8f1f95c36352c0311169d53a3a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 14:00:39 2023 -0700
+
+    Hol
+
+[33mcommit ad31696cb3ba184e36f6dd159b005a19a2f248ad[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 13:52:18 2023 -0700
+
+    1-print_binary.c
+
+[33mcommit 49dc740f0c9169d0690edaaf1477ae77b3b9123d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 13:49:23 2023 -0700
+
+     5-flip_bits.c
+
+[33mcommit 8fbd3c2cd2526e45f734ae9a91a4525326217b96[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 13:34:20 2023 -0700
+
+    4-clear_bit.c
+
+[33mcommit d792a385a3478b1b32fa3301949aefc2e2717b9e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 13:27:43 2023 -0700
+
+    3-set_bit.c
+
+[33mcommit 1d4a88c93e2d7b656c8b09e48a73feca69170e7a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 13:21:19 2023 -0700
+
+    2-get_bit.c
+
+[33mcommit b2180df43a76660469595c9eadd79232e3d48460[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 12:54:24 2023 -0700
+
+    1-print_binary.c
+
+[33mcommit b20b7be44c1fa1926ca3c916cc26b44bface17f9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Aug 3 12:14:44 2023 -0700
+
+    0-binary_to_uint.c
+
+[33mcommit 14f307808ae2fb93af9ee9f57239d15cfce84440[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Aug 2 14:03:16 2023 -0700
+
+    101-print_listint_safe.c 102-free_listint_safe.c 103-find_loop.c
+
+[33mcommit 39eb71e89463c2822e3b889d2b92739fdc301f05[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Aug 2 13:27:54 2023 -0700
+
+    100-reverse_listint.c
+
+[33mcommit daffc4bf6d03e53b43e07a2c25de5bf2c8c36442[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Aug 2 13:15:30 2023 -0700
+
+    10-delete_nodeint.c
+
+[33mcommit a3713a0dec625f8690167025fce0d6e1e6723a77[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Aug 2 13:11:06 2023 -0700
+
+    9-insert_nodeint.c
+
+[33mcommit 65324b23a8bf3b095aad3760fe032d30dd0a210c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:40:48 2023 -0700
+
+     8-sum_listint.c
+
+[33mcommit d08a3dc15a4e850da6286a2c1dad7753ea91fcdd[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:36:59 2023 -0700
+
+     7-get_nodeint.c
+
+[33mcommit 90ff3a407ffaf4dd589c7b7e87849767701f0adb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:30:15 2023 -0700
+
+    6-pop_listint.c
+
+[33mcommit 55ff8e398c300b976036dc2a16cf245d915b0935[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:23:50 2023 -0700
+
+     5-free_listint2.c
+
+[33mcommit 35048013049be910105693e2d2c34ffd3f9b260a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:19:03 2023 -0700
+
+    4-free_listint.c
+
+[33mcommit 9e7a93f79c71df3894aaa49fb9a651da43299d0e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 13:12:39 2023 -0700
+
+    3-add_nodeint_end.c
+
+[33mcommit 75b32e41169544fc133698d90f873d36b931a249[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 12:21:37 2023 -0700
+
+    2-add_nodeint.c
+
+[33mcommit 4703d9e137dce0689c852019baaa744421040689[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 08:56:52 2023 -0700
+
+    1-listint_len.c
+
+[33mcommit 52c3d5826c9cc8a439db3cd1838e952927d022fe[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Aug 1 08:17:45 2023 -0700
+
+    0-print_listint.c
+
+[33mcommit 207885c8c904a02ba8ee34d6a17f3bc355694ae1[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 13:34:21 2023 -0700
+
+    101-hello_holberton.asm
+
+[33mcommit bd72b452d8cbbdf86823f8bb07c1128eb5e8768b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 13:29:11 2023 -0700
+
+    100-first.c
+
+[33mcommit 97d8d3b539917689f48923b243e2b31929ce2548[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 13:26:45 2023 -0700
+
+    100-first.c
+
+[33mcommit cefd86cebbfddba8c0ce8ef8ce0375874b8a7235[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 13:17:03 2023 -0700
+
+    4-free_list.c
+
+[33mcommit 3f27868378f40e2c0fc30f5bb54132b269f77b44[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 13:07:32 2023 -0700
+
+     3-add_node_end.c
+
+[33mcommit 50b02b5e34bd62a3db3363884e4550882b2a5eb5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 12:59:33 2023 -0700
+
+    2-add_node.c
+
+[33mcommit 4fc9f0f675a0776f774ccd2f76a35d513206b6eb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 12:48:15 2023 -0700
+
+    1-list_len.c
+
+[33mcommit 1cd0964fd7b616c76d0882d507aec3f6276a4f1b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 27 12:22:43 2023 -0700
+
+     0-print_list.c
+
+[33mcommit 962ecf11fcf475364f47c6f1bbf83eeeb1b95b65[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 20 13:42:31 2023 -0700
+
+    2-print_strings.c
+
+[33mcommit d2a9056cb9bf005100904382555eaf273ce8df79[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 20 13:37:38 2023 -0700
+
+    1-print_numbers.c
+
+[33mcommit 185fe760b8fd76b9476f70bc953a6dbcd44a30ea[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 20 13:31:44 2023 -0700
+
+    0-sum_them_all.c
+
+[33mcommit d8cd2ce533e46e2fb02f13a205070aba377fb9dd[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 20 12:57:19 2023 -0700
+
+    0-sum_them_all.c
+
+[33mcommit 191154baa30450c042fb9115bfc221ac9f0f78a6[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 19 13:58:56 2023 -0700
+
+    100-main_opcodes.c
+
+[33mcommit 3b203b17fc7e5b9f7274fbb00aad6fde4be1e1c6[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 19 13:46:36 2023 -0700
+
+    100-main_opcodes.c
+
+[33mcommit 66b479137ffb22cd535de359691560bc3234af4c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 19 13:23:11 2023 -0700
+
+    2-int_index.c
+
+[33mcommit e47170340e864c1a9ee3bd92933b3fa67df17c66[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 19 12:58:48 2023 -0700
+
+    1-array_iterator.c
+
+[33mcommit 72c84b88d66337599b2f68cbad050475e2f92cd5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 19 12:38:43 2023 -0700
+
+    0-print_name.c
+
+[33mcommit 4a1fc53a9242f898afebfe3a34ec1424414ba815[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:37:28 2023 -0700
+
+    4-sum.c
+
+[33mcommit 3c634e719cfd23deae98cdcf333a1894ae4ac286[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:33:47 2023 -0700
+
+    3-function_like_macro.h
+
+[33mcommit d3e749091c4a85d838a1157210a4e2ce2f36f2ad[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:31:47 2023 -0700
+
+    3-function_like_macro.h
+
+[33mcommit 5324fba4103c82811664f2f85d37ee0680b9d210[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:18:15 2023 -0700
+
+    2-main.c
+
+[33mcommit ae3515e980cfa012ead157475d2a864714e3d15d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:16:09 2023 -0700
+
+    2-main.c
+
+[33mcommit 2d53ff650f5aaa36ed4b12886ef825502aa00443[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:10:06 2023 -0700
+
+     1-pi.h
+
+[33mcommit d31eda1b0bc42e4f83b6c266d5db6800e8305958[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 14:04:46 2023 -0700
+
+    0-object_like_macro.h
+
+[33mcommit 595b22a260a084ec4c73c85d724299ed89d82269[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 13:23:57 2023 -0700
+
+    5-free_dog.c
+
+[33mcommit 820b51e40f9a78ed5716a8f678fce9bc97290e88[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 13:12:18 2023 -0700
+
+    4-new_dog.c
+
+[33mcommit 89f9a790803ffa5d675c5a7bfacb561199b7cebd[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 12:51:04 2023 -0700
+
+    2-print_dog.c
+
+[33mcommit 185747da00128522bb76027eb1b0d10754a3ece7[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 12:38:24 2023 -0700
+
+    1-init_dog.c
+
+[33mcommit 905922c41878c7c0cff3a71f4f0d94a339777935[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 12:34:29 2023 -0700
+
+    1-init_dog.c
+
+[33mcommit 38ecf25d2c84968b291633c9e2380a4933661ae9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 17 11:57:45 2023 -0700
+
+    dog.h
+
+[33mcommit d55ef9353b1789cdd9ac2a91dc31a7d6b5646932[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 13 13:53:43 2023 -0700
+
+     3-array_range.c
+
+[33mcommit 6b9273757516aeedfe103f55054536733459ab00[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 13 13:31:21 2023 -0700
+
+    2-calloc.c
+
+[33mcommit d5fb784b9809d067994bd41781de5679c86e533a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 13 13:08:47 2023 -0700
+
+    1-string_nconcat.c
+
+[33mcommit bb46dd29f0e4e0d487ae588ebc3a7c7b50c695a9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jul 13 12:28:10 2023 -0700
+
+    0-malloc_checked.c
+
+[33mcommit b099b05ae9dd6972e6b398b7244a88b690c1cc70[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 12 11:48:41 2023 -0700
+
+    3-mul.c
+
+[33mcommit 2062523de9bffffb812dee38abb7f1974e0dc48f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 12:28:26 2023 -0700
+
+    100-argstostr.c
+
+[33mcommit 28b8578ef762ae97af23242e6d66e5c979e8ec72[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 12:15:30 2023 -0700
+
+    100-argstostr.c
+
+[33mcommit f9c1147fd01c57fd33390b4725f975f9f8f1c9be[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 05:01:19 2023 -0700
+
+    4-free_grid.c
+
+[33mcommit 9d706c7f983fb5164afd1216f9c74fcdcfc668c0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 04:51:31 2023 -0700
+
+     3-alloc_grid.c
+
+[33mcommit 78618f8559cd707b57f18769bfb4fd46eaedf280[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 04:24:22 2023 -0700
+
+    2-str_concat.c
+
+[33mcommit b7b4aa45d28678b8fc74c150c71b6e5e7921bd4d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 03:21:11 2023 -0700
+
+    1-strdup.c
+
+[33mcommit 3bf68772b369c3ba417f3e5ebbc0178de91414fe[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 11 02:41:42 2023 -0700
+
+    0-create_array.c
+
+[33mcommit d59ea7f8a7b7bb9ec7982c394ff340c187d69382[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jul 9 13:30:39 2023 -0700
+
+    2-args.c
+
+[33mcommit f5d98c339dfe8d051b8650903b7e257757dbf967[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jul 9 10:11:50 2023 -0700
+
+    1-args.c
+
+[33mcommit 7fe81d2016c552c2130cf528b618c2295a7ed3b3[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jul 9 10:01:22 2023 -0700
+
+    0-whatsmyname.c
+
+[33mcommit e3edcdb8f6d403d941deb3a0acede644b843b746[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jul 9 09:52:48 2023 -0700
+
+    0-whatsmyname.c
+
+[33mcommit 254924941761dc1b81b5d35e66c9433612bc3dcc[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 14:02:39 2023 -0700
+
+    0-whatsmyname.c
+
+[33mcommit 3fbf3e157cb1db55912093f262df0da74c54fa85[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 13:56:20 2023 -0700
+
+    0-whatsmyname.c
+
+[33mcommit 4436468f9084f64bfaf578f768b5280f2cac4b13[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 12:21:19 2023 -0700
+
+    create_static_lib.sh
+
+[33mcommit 1f1f34795bdccfd9476a461ee1984805be762822[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 11:40:22 2023 -0700
+
+    create_static_lib.sh
+
+[33mcommit 487bc0d5b131c810382bc6528d235527e68aa128[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 11:36:41 2023 -0700
+
+    create_static_lib.sh
+
+[33mcommit 8ed577aa787e83fd6c00c36c692211fbf93eff28[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jul 8 11:16:06 2023 -0700
+
+    static library
+
+[33mcommit c6e80647bf121fb51574cfbbb08334fee123627d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Jul 7 14:40:41 2023 -0700
+
+    main.h
+
+[33mcommit 3669a5d9f35ce27146f35b37902ff9555136f236[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 14:08:02 2023 -0700
+
+    6-is_prime_number.c
+
+[33mcommit c88384d7bfd43d509cdbbcbbfcedc6256c2acf20[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 13:51:25 2023 -0700
+
+    5-sqrt_recursion.c
+
+[33mcommit db7dbf90224d3990e0a4ad990d34bdc7884d38e0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 13:15:58 2023 -0700
+
+    4-pow_recursion.c
+
+[33mcommit 7bfb36a1504904b8a6ce8f02bb8290f8bd0c0fa2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 13:04:42 2023 -0700
+
+    3-factorial.c
+
+[33mcommit 92c0d5f6fd18bf2dc1ec5ccb17b70ef11340d6ad[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 12:41:01 2023 -0700
+
+    2-strlen_recursion.c
+
+[33mcommit e470e28afee21cb861f5d508d46a6092663f52bc[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 12:34:49 2023 -0700
+
+    2-strlen_recursion.c
+
+[33mcommit 8b5693acd6c6e9034c5b63e1e0d53f83668c002c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 12:32:10 2023 -0700
+
+    2-strlen_recursion.c
+
+[33mcommit 8173fcb180810e527af24d0be8cf8656a5fa12d2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 12:19:46 2023 -0700
+
+    1-print_rev_recursion.c
+
+[33mcommit 6b98f73b114b7f6f93cafbd4d42c3f126147e255[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 11:55:26 2023 -0700
+
+    0-puts_recursion.c
+
+[33mcommit c072de67da587ddb7b31e1db218bce9fdae05427[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jul 5 11:48:03 2023 -0700
+
+    main.h
+
+[33mcommit 50e636e1bd26074bd35360ea0ccb3a2c24dddc72[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 4 15:26:20 2023 -0700
+
+    100-set_string.c
+
+[33mcommit 443dc5221ea7cc42aef089d1842c738000169d5b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 4 11:24:25 2023 -0700
+
+    8-print_diagsums.c
+
+[33mcommit 8f2346b7e5c91443d08a76c54ca47dad467fbb23[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 4 11:01:09 2023 -0700
+
+    main.h
+
+[33mcommit d8179a9ae0cedf733f8578157350d11db0f1b34a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 4 10:11:31 2023 -0700
+
+    5-strstr.c
+
+[33mcommit ad8dadcca85cc23fb21cbab769ab864d3dd1e323[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jul 4 09:52:58 2023 -0700
+
+    4-strpbrk.c
+
+[33mcommit fea1a7225873c4da66c3efd2a6ccc1770c4b9dd4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 3 14:37:29 2023 -0700
+
+    3-strspn.c
+
+[33mcommit 494dc4d5bb9cb9b1816f40c2f568352877c9b072[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 3 14:20:26 2023 -0700
+
+    2-strchr.c
+
+[33mcommit 516d1469afb79403bbc62d77753f8e7d7f0241d4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 3 13:58:47 2023 -0700
+
+    1-memcpy.c
+
+[33mcommit 345c63ad8130d493fd3f27a71e44f0bb96979f21[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jul 3 12:50:17 2023 -0700
+
+    0-memset.c
+
+[33mcommit a5c7ebd4cc6b3bbdcb9aaa3f7d61083b6f64ee07[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 15:49:38 2023 -0700
+
+    102-magic.c
+
+[33mcommit 2194ca40e20d579cd080ed1609ade563587ffee8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 15:34:41 2023 -0700
+
+    101-print_number.c
+
+[33mcommit a1f64feb343ce564db61545480d63dbf9e561815[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 15:11:33 2023 -0700
+
+    100-rot13.c
+
+[33mcommit 682b99ac6c2e1b1278e7513e098aad4a06cf8ffa[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 14:25:07 2023 -0700
+
+     7-leet.c
+
+[33mcommit 821c8903f0a266f3e4317ebd59fa03ecd9fa38b8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 14:21:55 2023 -0700
+
+     7-leet.c
+
+[33mcommit 552120582b7ac1787c3d80e88aaa7169d92320e4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 14:07:50 2023 -0700
+
+    6-cap_string.c
+
+[33mcommit 03e078c8d99d2b8e6614ad89a9c53d1de9f166f9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 12:55:19 2023 -0700
+
+    5-string_toupper.c
+
+[33mcommit 5005344c8aa6d561f62262528b820157d13b1199[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 12:40:26 2023 -0700
+
+    4-rev_array.c
+
+[33mcommit f79e84735183d3cc448efa39522a67c2a09dcdb4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 12:29:20 2023 -0700
+
+    3-strcmp.c
+
+[33mcommit 1445f9bfa5e38699a70c2c4362e802620759a25d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 12:11:46 2023 -0700
+
+    2-strncpy.c
+
+[33mcommit 48b0159a4f70bd3eb932402f223f5dc8f6584eab[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 11:42:59 2023 -0700
+
+    1-strncat.c
+
+[33mcommit a802dd5eb567ce181641ec0423b68c782e9067b2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 11:39:10 2023 -0700
+
+    1-strncat.c
+
+[33mcommit 653a7c9aead4f5c96239d0dea6ce126e1f444079[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 11:35:46 2023 -0700
+
+    1-strncat.c
+
+[33mcommit ce9ad12496ceb035ba2cc1a947f74f3719299bc8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 29 10:55:49 2023 -0700
+
+    0-strcat.c
+
+[33mcommit 10c63e7f47b69812783f978b42e26853abc077ae[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 16:44:34 2023 -0700
+
+    9-strcpy.c
+
+[33mcommit 5fb03c01386e07de82ace019bfd1571e9624046b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 16:40:32 2023 -0700
+
+    9-strcpy.c
+
+[33mcommit a0fa228cdd55c8c7e5e9ae5375286c3e21c7191c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 15:14:41 2023 -0700
+
+    7-puts_half.c
+
+[33mcommit 881658cc6d753321cd5ed8dce6ffa74c0eef9149[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 14:59:51 2023 -0700
+
+    6-puts2.c
+
+[33mcommit 1257282c425d57f668e11e1891a34086bc5c9561[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 14:54:48 2023 -0700
+
+    6-puts2.c
+
+[33mcommit 11ba521486b18b65a13c7ddaa544b595842f9260[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 14:53:21 2023 -0700
+
+    6-puts2.c
+
+[33mcommit 2ca1b8d91153232f4ece6c106078b67c22180d58[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 27 14:50:31 2023 -0700
+
+    6-puts2.c
+
+[33mcommit f011deb5217ab8eec2f43ee3984d2a2caadee90a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 15:18:37 2023 -0700
+
+    6-puts2.c
+
+[33mcommit 9a07fbeb1c0ad766b0f3dee42ed5b0b0b90a67ba[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:52:54 2023 -0700
+
+    5-rev_string.c
+
+[33mcommit df330aeb726ad4055507a6e440dab7e863da44a4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:51:16 2023 -0700
+
+    5-rev_string.c
+
+[33mcommit 07b07f0b0e69f81bc0392d2f5b76569cc043d36f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:46:53 2023 -0700
+
+    5-rev_string.c
+
+[33mcommit 05eeff77608949a645008aa15d35a0a2b8c4d688[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:37:08 2023 -0700
+
+    5-rev_string.c
+
+[33mcommit f6a754f5beba25a37435e85788bfb55f55bc2a7c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:24:00 2023 -0700
+
+    4-print_rev.c
+
+[33mcommit f0761dc414f326ab91cbd16fd4545d760a2522a4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:21:02 2023 -0700
+
+    4-print_rev.c
+
+[33mcommit 8620e076ea66e045a7e0b86aae8ddd50a8d31131[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:14:56 2023 -0700
+
+    4-print_rev.c
+
+[33mcommit 086079719b037bd719a7e4fdf0ada41d5607e582[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 14:03:47 2023 -0700
+
+    4-print_rev.c
+
+[33mcommit c5852f83af66911154e4b8c361b6f3919566c673[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 13:48:32 2023 -0700
+
+     3-puts.c
+
+[33mcommit 7bac629adec4b6858ceb8fce7dbf929204660f6b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 13:25:02 2023 -0700
+
+    _putchar.c
+
+[33mcommit 8cf8099cb636653c8c97430b68f2afb8d7ffbc9a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 13:19:16 2023 -0700
+
+    3-main.c
+
+[33mcommit 058c2679a3580fe44f0db05d8148f350d81cf1c5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 13:03:54 2023 -0700
+
+    2-strlen.c
+
+[33mcommit d9a0e0bc33f21e09413ebf91aa1aaadf50d3b03f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 12:35:49 2023 -0700
+
+    1-swap.c
+
+[33mcommit a3be89b2748f89053038a7abaff38352654d8458[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 12:18:17 2023 -0700
+
+     0-reset_to_98.c
+
+[33mcommit d6e6356dc1fe2b7f732eb089df901ff2b132d725[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Mon Jun 26 11:47:53 2023 -0700
+
+    main.h
+
+[33mcommit 6549fce8728dc97e3227b235dec2083e3a2865c7[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Jun 23 16:50:38 2023 -0700
+
+     1-main.c
+
+[33mcommit 3f13e66c957990a6955646847c92f438ce30109d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Jun 23 16:36:51 2023 -0700
+
+    positive_or_negative.c
+
+[33mcommit 05df7c16760c8484027c4e7a6e248305df19270a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Fri Jun 23 16:30:00 2023 -0700
+
+    positive_or_negative.c
+
+[33mcommit eadc114da34a9d8eb038aa245c0d27c6c6c99bfe[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 16:57:34 2023 -0700
+
+    6-print_line.c
+
+[33mcommit a85c391252a04647a51fee2b7ffd8f1ec9784bbb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 16:45:05 2023 -0700
+
+    10-print_triangle.c
+
+[33mcommit 1af25035e0908178eede39b345e3ce5d32f01899[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 16:28:44 2023 -0700
+
+    9-fizz_buzz.c
+
+[33mcommit 8a2e8adfbc83f2e17e6c2c654cf4d4b1bef21cc9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 15:48:23 2023 -0700
+
+    8-print_square.c
+
+[33mcommit 4bd8d3b58457cbd5938236f6081d981486c7f293[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 15:25:25 2023 -0700
+
+    7-print_diagonal.c
+
+[33mcommit ad2875b3c48eed6802e166a54f3cf8278bb20408[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 15:20:55 2023 -0700
+
+    7-print_diagonal.c
+
+[33mcommit 7d4abd7243d6b00345c732f0c933b49a7c0ae2bd[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 14:40:38 2023 -0700
+
+    6-print_line.c
+
+[33mcommit 68cb217005db3d9a299692ae9beb17cd2ec15f2b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 14:10:24 2023 -0700
+
+    5-more_numbers.c
+
+[33mcommit 82e46163a01b152454652a9b8c532c45b97fac40[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 14:09:38 2023 -0700
+
+    5-more_numbers.c
+
+[33mcommit ead091d584ec34b188fb0e715ca53cce7dbd03e4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 13:21:43 2023 -0700
+
+    4-print_most_numbers.c
+
+[33mcommit 3b97ed402763a880ad510401a6ec7554e3032d04[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 13:05:57 2023 -0700
+
+    3-print_numbers.c
+
+[33mcommit d7bf622d16dce9d9fe71da5fedca52ad272e364f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 12:53:38 2023 -0700
+
+    2-mul.c
+
+[33mcommit a0c1eb030d28eb25e13dfdfc5f2427ac9b818745[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 12:28:09 2023 -0700
+
+    1-isdigit.c
+
+[33mcommit 2c1d413f46ec83620b09ec91754d8bc8c97120d8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 12:10:00 2023 -0700
+
+    0-isupper.c
+
+[33mcommit 2938095687edc84050b2333baf06a42602fe32e2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 11:58:04 2023 -0700
+
+    0-isupper.c
+
+[33mcommit 516ae6c58b7797d261cd48a8c76c5c9b87ac89bb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 11:46:54 2023 -0700
+
+    main.h
+
+[33mcommit fcf19c09f3710e4fa85e37f9aa1c96ed1b041483[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 11:41:48 2023 -0700
+
+    main.h
+
+[33mcommit 53915d3c07d074210e2ee35fbb88ed6672b132e0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 09:15:22 2023 -0700
+
+    0-isupper.c
+
+[33mcommit a0e02ee8c937892ce325838905367232dbf9bb5b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 07:20:07 2023 -0700
+
+    0-isupper.c
+
+[33mcommit c7eae2169a7d23c64a0808c4c9d996df9a7e59d3[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 07:18:02 2023 -0700
+
+    0-isupper.c
+
+[33mcommit a630372966dc04ecc4d05a0ef928c089f4b0c27e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 22 07:01:56 2023 -0700
+
+    0-isupper.c
+
+[33mcommit b0c3a0464d9974d1eb0dfc8521c9b62d9944da71[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:33:17 2023 -0700
+
+    10-add.c
+
+[33mcommit 66d6184e7dde6ebe994b3e0ce706f1068612d199[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:28:32 2023 -0700
+
+    10-add.c
+
+[33mcommit 1eb9a93913a70e1c52ac1daf3a2a74ac2fd2cf54[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:27:12 2023 -0700
+
+    10-add.c
+
+[33mcommit c32e6849fb00ded7d7248eef708536cd59079d33[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:24:43 2023 -0700
+
+    10-add.c
+
+[33mcommit 3edddf1219426ac4ecd70a3a1a22f108b6e58139[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:02:16 2023 -0700
+
+    9-times_table.c
+
+[33mcommit 805e193d1bcfcca86b4ace3f8e4fe175608dbff3[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 15:01:09 2023 -0700
+
+    9-times_table.c
+
+[33mcommit c4b4bd6a36e889337ec0a0c26948a585f98ed8a5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 14:59:15 2023 -0700
+
+    9-times_table.c
+
+[33mcommit 36ce632fb4690ae2bcb0f76b67d73f52e0ca841c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 14:36:13 2023 -0700
+
+    8-24_hours.c
+
+[33mcommit 3c1fd0e2498fc7a1ce0bd72a2bdbcb61c81fcbf5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 14:22:41 2023 -0700
+
+    8-24_hours.c
+
+[33mcommit 6e28acd5f3c3c90e9174a1309fcefbfb25d70476[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:54:49 2023 -0700
+
+    8-24_hours.c
+
+[33mcommit 4a8a76ed3c60b511e3915c7f5c51840e57fa27be[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:50:46 2023 -0700
+
+    8-24_hours.c
+
+[33mcommit ad8bbdfb082156a412c81af55d0e51dc9003a8f1[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:24:13 2023 -0700
+
+    7-print_last_digit.c
+
+[33mcommit 26868c1f595291fa58f8096eef4503bd3a69fdbb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:21:11 2023 -0700
+
+    7-print_last_digit.c
+
+[33mcommit 099b091db9ed7f1dc4f670bd28a349a820b06103[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:11:52 2023 -0700
+
+    6-abs.c
+
+[33mcommit d21254f708ecf7f915365f8968a30da8d93cdf16[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Wed Jun 21 13:10:03 2023 -0700
+
+    6-abs.c
+
+[33mcommit f8a3b35386b58d7f2163edabca31cc32d60309da[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 15:45:24 2023 -0700
+
+    5-sign.c
+
+[33mcommit 2f8eb7c9481018958736a7b7f6137b0199558953[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 15:43:48 2023 -0700
+
+    5-sign.c
+
+[33mcommit a09335aa1a7052e511d27a65f018f6a6f56f8cd5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 15:25:04 2023 -0700
+
+    4-isalpha.c
+
+[33mcommit 4f7138e18aafd61c334924115278202de11d996f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 15:18:35 2023 -0700
+
+    4-isalpha.c
+
+[33mcommit 51c73b31b48a00083bfb1ae819d368e94a3df9d2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 15:08:25 2023 -0700
+
+    3-islower.c
+
+[33mcommit edc7544808f5212af289694c59d8d2a3aa32fce4[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:43:54 2023 -0700
+
+    2-print_alphabet_x10.c
+
+[33mcommit 99cc7aebebef903016dc69f64df5020d7e9b21e3[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:40:51 2023 -0700
+
+    2-print_alphabet_x10.c
+
+[33mcommit 35ed48d53691025d2c92475abb0e0696e6e5235a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:39:13 2023 -0700
+
+    2-print_alphabet_x10.c
+
+[33mcommit 6b29f8e67665fac769894f1b2a1a41c58aeb9940[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:37:42 2023 -0700
+
+    2-print_alphabet_x10.c
+
+[33mcommit 5efa00294adef8e731524b9b0bac883f0debc1a0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:27:23 2023 -0700
+
+     1-alphabet.c
+
+[33mcommit b747d72747faca754b4d92b444e7d0ff0cdb8b39[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:25:43 2023 -0700
+
+     1-alphabet.c
+
+[33mcommit c27ce6eea2dc0dc5bf931a0fb70f65eedeae5a77[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 14:04:35 2023 -0700
+
+    0-putchar.c
+
+[33mcommit cc1b23cb3cc1b5f6782f1873afeea81289b3f4a8[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 13:58:21 2023 -0700
+
+    0-putchar.c
+
+[33mcommit c383a34d8551d573b68c40ff5311f0ee9c3cacd0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 05:37:13 2023 -0700
+
+    0-putchar.c
+
+[33mcommit e163c4c7f144782e5a431b6898797f50d8bda20c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Tue Jun 20 05:34:48 2023 -0700
+
+    0-putchar.c
+
+[33mcommit 02e51a7b2951f70a52a36a8aeba97fe5705da39e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 15:12:31 2023 -0700
+
+     102-print_comb5.c
+
+[33mcommit 1964765fe90c7ff35f307b9f0b9878a52655c956[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 15:09:25 2023 -0700
+
+     102-print_comb5.c
+
+[33mcommit 2b70e342d9b309c7891eae433915f580d7e737d5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 15:05:51 2023 -0700
+
+     102-print_comb5.c
+
+[33mcommit 0caa673848f1d33dde763f23f3110a4bbc314372[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 12:46:38 2023 -0700
+
+    101-print_comb4.c
+
+[33mcommit 8c29368efd9f05f7d9295131288c5ae08c5411df[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 12:29:43 2023 -0700
+
+    100-print_comb3.c
+
+[33mcommit 8e1193f45c5b28c031729454367b4646f3b288d6[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 12:20:47 2023 -0700
+
+    100-print_comb3.c
+
+[33mcommit d1ba04098a675a2ae9b7ac6f44eebd7526f36e31[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 05:03:36 2023 -0700
+
+    9-print_comb.c
+
+[33mcommit a393a58a3d859f690ccbe6ef74927c3deb6b2bd0[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 04:49:21 2023 -0700
+
+     8-print_base16.c
+
+[33mcommit 90f0edac1fc4dc34b2a8fcfe48d38d2c5fe604aa[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 04:32:08 2023 -0700
+
+    7-print_tebahpla.c
+
+[33mcommit cd2d413f77fb63b4bb314abce045222023a4d273[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 04:30:37 2023 -0700
+
+    7-print_tebahpla.c
+
+[33mcommit 3d5e7662e0be72577911a3f0bea061f4df25a010[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 04:16:57 2023 -0700
+
+    6-print_numberz.c
+
+[33mcommit 828f3427772f733e19e2a01766e66f02efdc3e27[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 04:15:23 2023 -0700
+
+    6-print_numberz.c
+
+[33mcommit 1fc47301de374fc65fab6f3bc522829e20d00791[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sun Jun 18 01:33:21 2023 -0700
+
+    5-print_numbers.c
+
+[33mcommit 0fb6426569f1615680a7b1770293f37ec9d8f175[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 22:28:55 2023 -0700
+
+    4-print_alphabt.c
+
+[33mcommit b95782d385313ad3ed58c43f5e04a847b02885fb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 22:20:21 2023 -0700
+
+    4-print_alphabt.c
+
+[33mcommit 2d195bb70d9c272457185c87601357eb27f0410e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 22:16:31 2023 -0700
+
+    4-print_alphabt.c
+
+[33mcommit 36c5e45e0029ffd9f1bdafe6dc00bd153ff6cca2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 22:13:56 2023 -0700
+
+    4-print_alphabt.c
+
+[33mcommit a71d2b5891b29025c0d90ab413d60f8d4ac71bd5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 13:00:55 2023 -0700
+
+    3-print_alphabets.c
+
+[33mcommit 422bae3509ff4d112a2416192aa6a55d3661cc52[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 12:46:32 2023 -0700
+
+    2-print_alphabet.c
+
+[33mcommit f33fca5328baceace1dbb70488eca7f24f08ee06[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 12:15:26 2023 -0700
+
+     1-last_digit.c
+
+[33mcommit e7935c7d5f2f421598c444dc50fb038b45e0d695[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 10:40:50 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit 1fb037e29d428b15e5d7469db8afff68cf58600f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 09:54:23 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit c66773913cfa20cbe92ab7af1aedbcc406a9c44c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 09:49:24 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit be2f73e3f0690ccbe111ee8c601f5fcbf1ae0bc1[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 09:47:23 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit 9d9381131abb9973ebe14f978c6a03bb095d434e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 09:30:28 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit 663bcf522aa9d3153d23f62ea2185852ad512e32[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 09:01:09 2023 -0700
+
+     1-last_digit.c
+
+[33mcommit 5f161197f2812604ef992d5c802c5d79ce6a32a9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 08:55:03 2023 -0700
+
+     1-last_digit.c
+
+[33mcommit c12feada9b71fd82bdad1b247f77a7c1adacdabb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 08:30:55 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit e1e4414841b758fdd320606d1eaaad5bfc31826e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 04:08:21 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 4e2ccd6eda8a8dba44d6168636043bfa9c2fe425[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 04:02:06 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 59d954882e89f15831749198756cdaead54bbf24[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:55:50 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 4f2e0fb0120012d67eba9bdddaca3b87e7419e16[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:52:11 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit b90692ba5e7ce09bf0f9ac8c10b0331452f03575[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:49:35 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 9d759203f09d3445bcf1e7927f2331edd1c5af7c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:43:54 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 0e59c84dfd29de63a34f8eab614d3322e857375d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:41:09 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 74a0468dce534e34df74d141b783affc3e60954f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:35:43 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit c03027d8f603d1563747f798eefe853c6e628d5a[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 03:26:23 2023 -0700
+
+    0-positive_or_negative.c
+
+[33mcommit 04857b84344ddd8cf8d98e3f9cb3cd711538b9d3[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 02:50:39 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit 13218c73bd0142643ca1f1f48bfc1a25d6177319[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Sat Jun 17 02:41:30 2023 -0700
+
+    1-last_digit.c
+
+[33mcommit 15d08c9a61a7f188946a8752c4f35dd547af57f5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:53:07 2023 -0700
+
+    6-size.c
+
+[33mcommit 42834271e4c603db3106a79659ffd5cbab018184[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:50:20 2023 -0700
+
+    6-size.c
+
+[33mcommit 082ab501387ed2bbf6808c140f68bf12d34f7a91[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:46:43 2023 -0700
+
+    6-size.c
+
+[33mcommit 8c37606583c10322ed662c5746a613dd101a7c39[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:40:11 2023 -0700
+
+    6-size.c
+
+[33mcommit 598dc613ac23eb382b48a418b7da7aef1b812dc5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:31:29 2023 -0700
+
+    6-size.c
+
+[33mcommit b81baca9ee7809554585fb3c968460858d34b78f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:28:25 2023 -0700
+
+    6-size.c
+
+[33mcommit 8e86544fc98c133457977f1634a2de196996b97c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:23:02 2023 -0700
+
+    6-size.c
+
+[33mcommit f3c0be92ab6278151191acacf24c1416c47024e5[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:10:49 2023 -0700
+
+    6-size.c
+
+[33mcommit 1eee275192e31752b56a1d2dcf1dbc59860b4b2b[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:07:17 2023 -0700
+
+    6-size.c
+
+[33mcommit f969b3c45b64dd24070ef83c1e51f48b218bee4e[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 14:04:32 2023 -0700
+
+    6-size.c
+
+[33mcommit d222c82457fb817b4ae9a7eaf439b5316c9ada5f[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 13:27:08 2023 -0700
+
+     5-printf.c
+
+[33mcommit 953315afbf0169ba411e1931f817341bf3a1cdfb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:36:41 2023 -0700
+
+    4-puts.c
+
+[33mcommit f3ae9229396eccde5c4652f9c86af474e33115c9[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:29:43 2023 -0700
+
+    4-puts.c
+
+[33mcommit 308305b92ef36db879f6aa8b6f7f0c4409bc4299[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:25:05 2023 -0700
+
+    4-puts.c
+
+[33mcommit e9f2d4b0a6f82e11bb7f431c12388c7df1d4b6e2[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:21:24 2023 -0700
+
+    4-puts.c
+
+[33mcommit 7122db01d255ae458db055d8209cf91ceed40e04[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:17:21 2023 -0700
+
+    4-puts.c
+
+[33mcommit 6a802b56afd8609f917b66d37218b73bfe483907[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 12:02:23 2023 -0700
+
+    4-puts.c
+
+[33mcommit 435ae34acc45777e7387cfefde95d44e1697a186[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 11:44:47 2023 -0700
+
+    4-puts.c
+
+[33mcommit 781ed941b46d7e5796d509296d81c540a0477f7d[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 11:35:07 2023 -0700
+
+    4-puts.c
+
+[33mcommit 29759c07558b2b12b932cbd0d574c4aaef336b40[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 11:16:30 2023 -0700
+
+    3-name
+
+[33mcommit 2d0dbd1bcd14b44eab8fd5d4321da54ea64964ed[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 11:11:28 2023 -0700
+
+    2-assembler
+
+[33mcommit 64f824fb8f8fa00ded7af3f09d4552182f854b13[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 10:38:53 2023 -0700
+
+     1-compiler
+
+[33mcommit 6964eeec05167f4327db0e1aec50c776efe20fcb[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 10:27:57 2023 -0700
+
+    0x00-hello_world
+
+[33mcommit d991526bdfbf267e771464930d05fba873683f1c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 10:25:31 2023 -0700
+
+    0-preprocessor
+
+[33mcommit c5acae44e023d5a22534f837a673875385667b9c[m
+Author: tembot-umich <humpheryjaami@gmail.com>
+Date:   Thu Jun 15 10:15:05 2023 -0700
+
+    README.md
